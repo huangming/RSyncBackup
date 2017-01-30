@@ -57,3 +57,6 @@ fabric.properties
 # .nfs files are created when an open file is removed but is still being accessed
 .nfs*
 
+.gitignore
+.idea/dataSources/1d05693f-1fe0-49d0-8f81-8723a045e49b/_staging_/
+.idea/vcs.xml
